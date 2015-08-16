@@ -1,6 +1,6 @@
-Yet another coding challenges, this time with a twist and the twist is;
+Yet another repo of coding challenges, this time with a twist and the twist is;
 
-1. Code is written on github (each branch contains contains 1 question)
+1. Code is written on Github (each branch contains contains 1 question)
 2. Tests against your code executed at [circleci](https://circleci.com/gh/engintekin/javascript-coding-challenges-using-github-circleci)
 
 ## How it works?
