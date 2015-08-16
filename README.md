@@ -1,5 +1,3 @@
-# javascript-coding-challenges-using-github-circleci
-
 Yet another coding challenges, this time with a twist and the twist is;
 
 1. Code is written on github (each branch contains contains 1 question)
