@@ -1,3 +1,9 @@
+dependencies:
+  override:
+    - npm install mocha
+    - npm install chai
+    - npm install sinon
+
 test:
   override:
     - mocha tests.js
