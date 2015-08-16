@@ -1,8 +1,8 @@
 Solution = (function() {
   return {
-    isRotation: function(str1, str2) {
+    isPalindrome: function(str) {
       //your solution goes here
-      throw 'missing implementation';
+      return 'missing implementation';
     }    
   }
 }());
