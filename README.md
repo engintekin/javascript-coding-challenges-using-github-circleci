@@ -12,3 +12,7 @@ Yet another coding challenges, this time with a twist and the twist is;
 4. Create a pull request to the original repo 
 
 That's it, you are ready to go, [circleci](https://circleci.com/gh/engintekin/javascript-coding-challenges-using-github-circleci) will start running the tests against your solution and hopefully your solution will succeed. Now start hacking by forking it!
+
+## Questions
+- [palindrome](https://github.com/engintekin/javascript-coding-challenges-using-github-circleci/tree/palindrome)
+- [rotation](https://github.com/engintekin/javascript-coding-challenges-using-github-circleci/tree/rotation)
