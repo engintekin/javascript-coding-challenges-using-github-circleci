@@ -13,4 +13,5 @@ That's it, you are ready to go, [circleci](https://circleci.com/gh/engintekin/ja
 
 ## Questions
 - [palindrome](https://github.com/engintekin/javascript-coding-challenges-using-github-circleci/tree/palindrome)
+- [reverse polish notation](https://github.com/engintekin/javascript-coding-challenges-using-github-circleci/tree/reverse_polish_notation)
 - [rotation](https://github.com/engintekin/javascript-coding-challenges-using-github-circleci/tree/rotation)
