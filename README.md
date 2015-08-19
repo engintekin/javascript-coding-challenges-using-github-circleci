@@ -12,7 +12,8 @@ Yet another repo of coding challenges, this time with a twist and the twist is;
 That's it, you are ready to go, [circleci](https://circleci.com/gh/engintekin/javascript-coding-challenges-using-github-circleci) will start running the tests against your solution and hopefully your solution will succeed. Now start hacking by forking it!
 
 ## Questions
+- [counting zeros](https://github.com/engintekin/javascript-coding-challenges-using-github-circleci/tree/counting-zeros)
 - [palindrome](https://github.com/engintekin/javascript-coding-challenges-using-github-circleci/tree/palindrome)
 - [reverse polish notation](https://github.com/engintekin/javascript-coding-challenges-using-github-circleci/tree/reverse_polish_notation)
 - [rotation](https://github.com/engintekin/javascript-coding-challenges-using-github-circleci/tree/rotation)
-- [counting zeros](https://github.com/engintekin/javascript-coding-challenges-using-github-circleci/tree/counting-zeros)
+
